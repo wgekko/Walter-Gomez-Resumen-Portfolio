@@ -179,6 +179,12 @@ SECTION WRAPS
   color: rgb(76, 177, 249);
 }
 
+.img-responsive{
+  width: 600px;
+  height: 320px;
+
+
+}
 /* Intro Wrap */
 
 #intro {
